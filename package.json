@@ -1,0 +1,22 @@
+{
+    "name": "qiwi_api-typescript",
+    "version": "0.1.0",
+    "description": "QIWI API wrapper via TypeScript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "type": "module",
+    "files": [
+        "dist",
+        "README.md",
+        "package.json"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
