@@ -5,6 +5,7 @@
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "type": "module",
+    "homepage": "https://github.com/LucifierArchangel/qiwi_api",
     "files": [
         "dist",
         "README.md",
